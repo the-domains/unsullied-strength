@@ -1,34 +1,34 @@
+name: Project Strength
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f53eeadc-fb70-4cc3-a088-ccfeae6f5c4a.jpg
+layout_spectrum: 0.49294798355549574
 typography_spectrum: 0.8181165070272982
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7532936979550868
-  lightness: 0.875010946765542
-  saturation: 0.4572343521285802
-  rhythmicContrast: 0.09067260450683534
+author:
+  name: Karim Sherra
+  email: karim.sherra@gmail.com
+title: Project Strength
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/39ce5ecd-71a6-40ec-aa7f-e3eb5d423e39.jpg
   type: null
   appId: null
-layout_spectrum: 0.49294798355549574
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: Karim Sherra
-  email: karim.sherra@gmail.com
-name: Project Strength
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f53eeadc-fb70-4cc3-a088-ccfeae6f5c4a.jpg
-title: Project Strength
+color:
+  brandColors:
+    - '#000000'
+    - '#ffcc00'
+    - '#443406'
+    - '#7c6611'
+    - '#ba9e1d'
+  brandStrength: 0.7532936979550868
+  lightness: 0.875010946765542
+  saturation: 0.4572343521285802
+  rhythmicContrast: 0.09067260450683534
 purpose: []
