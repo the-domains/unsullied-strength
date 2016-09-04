@@ -11,7 +11,8 @@ color:
   saturation: 0.4572343521285802
   rhythmicContrast: 0.09067260450683534
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/39ce5ecd-71a6-40ec-aa7f-e3eb5d423e39.jpg
   type: null
   appId: null
 layout_spectrum: 0.49294798355549574
@@ -19,11 +20,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Karim Sherra
+  email: karim.sherra@gmail.com
 name: Project Strength
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f53eeadc-fb70-4cc3-a088-ccfeae6f5c4a.jpg
 title: Project Strength
 purpose: []
